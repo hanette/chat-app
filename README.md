@@ -1,6 +1,6 @@
-# hello_world
+# chat_app
 
-A new Flutter project.
+A Flutter and Firebase project to create a real-time texting application with responsive UI designs.
 
 ## Getting Started
 
